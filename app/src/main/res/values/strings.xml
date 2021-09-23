@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewsApi</string>
+    <string name="checkInternet">من فضلك إفحص شبكة الإنترنت</string>
+    <string name="news_image">news_image</string>
+    <string name="isConnected">Connection is Connected</string>
+    <string name="isWaiting">Connection is waiting</string>
+    <string name="isLost">Connection is lost</string>
+</resources>
